@@ -2,7 +2,7 @@
 ---
 
 ## Goal:
-Resize the given image without cuting important elements and without compressing it. Just remove unnesessary pixels.
+Resize the given image without cuting important elements and without compressing it.
 ## Example:
 ![Example](https://coursera.cs.princeton.edu/algs4/assignments/seam/HJoceanSmall.png)
 =>
