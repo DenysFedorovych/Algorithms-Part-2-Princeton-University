@@ -8,7 +8,7 @@ Resize the given image without cuting important elements and without compressing
 =>
 ![Example](https://coursera.cs.princeton.edu/algs4/assignments/seam/HJoceanSmallShrunk.png)
 ## What was in use:
-*    Specific Dijkstra algorithm with Topological sort
+*    Specific Dijkstra algorithm with Topological order
 *    Dual-gradient energy function
 ## How to use it:
 1.    Import "algs4.jar" and put a picture which you want to change into the project folder
