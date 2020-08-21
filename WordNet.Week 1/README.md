@@ -13,3 +13,14 @@
 3.    Red-Black Binary Search Tree
 4.    Breadth-First Directed Paths
 5.    Depth-First Search
+## How to use:
+*    Import "algs4.jar" library, "synsets.txt" and "hypernyms.txt" into project
+*    Run class Main
+*    Give a set of words where you want to find outcast
+*    If you want to find distance => 
+
+` WordNet wordNet = new WordNet("D:\\Programming\\WordNet\\synsets.txt","D:\\Programming\\WordNet\\hypernyms.txt" ); ` 
+
+` int distance = distance( "nounA", "nounB") `
+
+(but choose your path for "synsets.txt" and "hypernyms.txt") 
